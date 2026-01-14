@@ -1,0 +1,9 @@
+{
+  "name": "ci-jenkins-docker",
+  "version": "1.0.0",
+  "description": "Simple CI project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
