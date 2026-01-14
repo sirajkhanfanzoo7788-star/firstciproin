@@ -4,7 +4,8 @@ pipeline {
     stages {
         stage('Clone Code') {
             steps {
-                git 'https://github.com/YOUR_USERNAME/ci-jenkins-docker.git'
+                git 'https://github.com/sirajkhanfanzoo7788-star/firstciproin.git'
+
             }
         }
 
