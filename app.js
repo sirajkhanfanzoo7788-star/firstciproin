@@ -6,3 +6,5 @@ http.createServer((req, res) => {
 }).listen(3000);
 
 console.log('Server running on port 3000');
+console.log('Webhook test at ' + new Date());
+
